@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class casting {
 
     public static void main(String[] args) {
-        final Double CONST = 0.23;
+        final Double CONST = .023;
         Scanner scan = new Scanner(System.in);
         System.out.println("Digite o valor de idade: ");
         Integer idade = scan.nextInt();
